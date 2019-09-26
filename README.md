@@ -22,8 +22,8 @@ For example:
 ```
 
 Gives:
-/
 
+\
 <img src="https://maginative.github.io/circle-flags/flags/br.svg" width="48">
 <img src="https://maginative.github.io/circle-flags/flags/ca.svg" width="48">
 <img src="https://maginative.github.io/circle-flags/flags/gb.svg" width="48">
