@@ -31,3 +31,6 @@ Gives:
 <img src="https://maginative.github.io/circle-flags/flags/mx.svg" width="48">
 <img src="https://maginative.github.io/circle-flags/flags/us.svg" width="48">
 <img src="https://maginative.github.io/circle-flags/flags/za.svg" width="48">
+
+
+Map Pin Icons from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a></div>
